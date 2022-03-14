@@ -3,7 +3,7 @@
 * case_study_Clustering_CV.ipynb notebook
 
 ### Introduction
-A case study to utilize K-means and Agglomerative clustering algorithms and  a range of the potential parameter(s) which affect the number of clusters on 5K colorectal patches represented by two different representation **PathologyGAN** and **ResNet50**.**
+A case study to utilize K-means and Agglomerative clustering algorithms and  a range of the potential parameter(s) which affect the number of clusters on 5K colorectal patches represented by two different representation **PathologyGAN** and **ResNet50**.
 
 **References:**
 * K-means https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
